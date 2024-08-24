@@ -1,0 +1,90 @@
+Received POST parameters: Array
+(
+)
+
+Received POST parameters: Array
+(
+    [loginUser] => 
+    [loginPass] => 123456
+)
+
+Received POST parameters: Array
+(
+    [loginUser] => testuser
+    [loginPass] => 123456
+)
+
+Received POST parameters: Array
+(
+)
+
+Received POST parameters: Array
+(
+    [loginUser] => 123
+    [loginPass] => 
+)
+
+Received POST parameters: Array
+(
+    [loginUser] => testuser
+    [loginPass] => 123456
+)
+
+Received POST parameters: Array
+(
+    [loginUser] => testuser
+    [loginPass] => 123456
+)
+
+Received POST parameters: Array
+(
+    [loginUser] => testuser
+    [loginPass] => 123456
+)
+
+Received POST parameters: Array
+(
+    [loginUser] => testuser
+    [loginPass] => 123456
+)
+
+Received POST parameters: Array
+(
+    [loginUser] => testuser
+    [loginPass] => 123456
+)
+
+Received POST parameters: Array
+(
+    [loginUser] => testuser
+    [loginPass] => 123456
+)
+
+Received POST parameters: Array
+(
+    [loginUser] => testuser
+    [loginPass] => 123456
+)
+
+Received POST parameters: Array
+(
+    [loginUser] => testuser
+    [loginPass] => 123456
+)
+
+Received POST parameters: Array
+(
+    [loginUser] => testuser
+    [loginPass] => 123456
+)
+
+Received POST parameters: Array
+(
+    [registerName] => seif
+    [registerEmail] => 123@gmail.com
+    [registerPass] => 123
+)
+\nReceived POST parameters: Array
+(
+)
+
